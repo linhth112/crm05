@@ -1,2 +1,3 @@
 Đây là trang chủ thằng B
+Đây là nội dung chỉnh sửa của máy A
 Đây là nội dung chỉnh sửa bởi máy B
